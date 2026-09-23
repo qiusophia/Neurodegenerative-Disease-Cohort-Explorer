@@ -4,7 +4,7 @@ An interactive dashboard for exploring participant metadata from a multi-cohort 
 
 The idea is simple: pick a diagnosis, a cohort, or an age range, and instantly see who's in the sample. No digging through spreadsheets.
 
-🔗 **Live site:** [link]
+🔗 **Live site:** [[link]](https://sophiaqiu.shinyapps.io/visualizer/)
 
 ## A note on the data
 
