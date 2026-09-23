@@ -1,6 +1,6 @@
 # Variant Visualizer
 
-An interactive Shiny app for exploring genetic variants in **PSEN1**, one of the main genes linked to early-onset Alzheimer's disease.
+An interactive Shiny app for exploring genetic variants in **PSEN1**, one of the main genes linked to early-onset Alzheimer's disease. https://sophiaqiu.shinyapps.io/visualizer/
 
 The app draws a lollipop plot along the PSEN1 protein. Each variant shows up at its amino acid position, the exons are color-coded underneath, and above each variant you can see how many carriers there are in each diagnosis group (Alzheimer's, FTD, ALS, early-onset dementia, and healthy controls). You can filter both the people and the variants, and the plot updates live.
 
